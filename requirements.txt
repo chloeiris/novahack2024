@@ -1,4 +1,5 @@
 streamlit
-SpeechRecognition
+speechrecognition
 sounddevice
 numpy
+pyaudio
